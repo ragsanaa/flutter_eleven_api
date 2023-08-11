@@ -1,0 +1,71 @@
+{
+  "employees": [
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "department": "IT",
+      "salary": 5000,
+      "skills": [
+        "Java",
+        "SQL",
+        "Python"
+      ]
+    },
+    {
+      "firstName": "Anna",
+      "lastName": "Smith",
+      "department": "HR",
+      "salary": 6000,
+      "skills": [
+        "Communication",
+        "Management"
+      ]
+    },
+    {
+      "firstName": "Peter",
+      "lastName": "Jones",
+      "department": "IT",
+      "salary": 7000,
+      "skills": [
+        "Java",
+        "SQL",
+        "HTML"
+      ]
+    },
+    {
+      "firstName": "Gerda",
+      "lastName": "Muller",
+      "department": "Customer Service",
+      "salary": 4000,
+      "skills": [
+        "Communication",
+        "Management"
+      ]
+    },
+    {
+      "firstName": "Albert",
+      "lastName": "Einstein",
+      "department": "IT",
+      "salary": 10000,
+      "skills": [
+        "Java",
+        "SQL",
+        "Python",
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    },
+    {
+      "firstName": "Marie",
+      "lastName": "Bella",
+      "department": "Customer Service",
+      "salary": 5000,
+      "skills": [
+        "Communication",
+        "Management",
+        "Problem Solving"
+      ]
+    }
+  ]
+}
